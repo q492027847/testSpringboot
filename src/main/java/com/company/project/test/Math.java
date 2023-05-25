@@ -3,7 +3,7 @@ package com.company.project.test;
 public class Math {
 
     public int computer(){
-        int a =1;
+        int a = 1;
         int b = 2;
         int c = (a+b) * 10;
         return c;
