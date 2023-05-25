@@ -12,5 +12,6 @@ public class Math {
         Math math = new Math();
         math.computer();
         System.out.println("test");
+        System.out.println("hot-fix test");
     }
 }
