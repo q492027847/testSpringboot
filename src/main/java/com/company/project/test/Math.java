@@ -8,9 +8,9 @@ public class Math {
         int c = (a+b) * 10;
         return c;
     }
-//    public static void main(String[] args) {
-//        Math math = new Math();
-//        math.computer();
-//        System.out.println("test");
-//    }
+    public static void main(String[] args) {
+        Math math = new Math();
+        math.computer();
+        System.out.println("test");
+    }
 }
